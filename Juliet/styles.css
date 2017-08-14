@@ -1,0 +1,92 @@
+#mountainviewImg{
+	width: 100%
+
+
+}
+
+#stonefiguresImg{
+	width:100%;
+	    padding-top: 40px;
+}
+
+#date{font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+color: #44545E;
+
+}
+#guide{
+	padding-top: 10px;
+	padding-bottom: 40px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 23px;	
+	color: #44545E;
+
+
+}
+body
+{
+	margin: 0;
+margin-left: 16.66%;
+margin-right: 16.66%;
+font-weight: 600;
+}
+
+#paragraph{font-family: 'Lato', sans-serif;
+font-size: 15px;
+font-weight: 400;
+}
+
+
+.tabs{
+	font-family: 'Raleway', sans-serif;
+color: #7B98AA;
+font-size: 16px;
+text-decoration: none;
+padding-right: 75px;
+
+}
+
+nav
+{margin:0 auto;
+text-align: center;
+padding-top: 10px;
+    padding-bottom: 50px;
+
+}
+
+#heading{margin:0 auto;
+text-align: center;
+font-family: 'Raleway', sans-serif;
+font-size: 37px;
+color: #44545E;
+padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+
+.social{font-family: 'Raleway', sans-serif;
+
+font-size: 15px;
+font-weight: 600;
+text-decoration: none;
+padding-right: 40px;
+
+}
+
+
+footer
+{font-family: 'Lato', sans-serif;
+font-size: 15px;
+font-weight: 400;
+
+
+}
+
+
+#footercontainer
+{
+	text-align: center;
+}
+
+
+ 
